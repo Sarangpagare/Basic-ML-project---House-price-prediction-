@@ -1,0 +1,29 @@
+Step 1  :   Add more features --> like location
+                                       parking
+                                       house age
+                                       floor number
+
+Step 2 : Add graph 
+
+Step 3 : Try another algorithm --> Decision Tree
+                                   random Forest
+
+Step 4 : Add Model Saving 
+
+Step 5 : Build GUI --> using Tkinter
+                             Streamlit
+ 
+Step 6 : Build Web App --> using Streamlit or Flask
+
+Step 7 : Learn Deep Learning --> TensorFlow
+                                 Pytorch
+
+
+
+
+✔Residual analysis
+✔ Cross validation
+✔ Save model
+✔ Multi-model prediction
+✔ Streamlit web app
+✔ XGBoost
